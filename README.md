@@ -1,2 +1,3 @@
 # LeetCode-118
-Pascal's Triangle
+##  Pascal's Triangle
+https://leetcode.com/problems/pascals-triangle/
